@@ -115,7 +115,7 @@ ORDER BY
 
 ### Visualization
 
-![stay.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0fbd3e61-f121-4c4e-8a6f-c3432ca9f8f3/75fcd6de-f132-4011-9074-cd0c78faa003/stay.png)
+![Average scores of international students by stay]([https://prod-files-secure.s3.us-west-2.amazonaws.com/0fbd3e61-f121-4c4e-8a6f-c3432ca9f8f3/75fcd6de-f132-4011-9074-cd0c78faa003/stay.png](https://file.notion.so/f/f/0fbd3e61-f121-4c4e-8a6f-c3432ca9f8f3/75fcd6de-f132-4011-9074-cd0c78faa003/stay.png?table=block&id=753f5b07-4d63-4554-9ea2-49a7b7ea27fb&spaceId=0fbd3e61-f121-4c4e-8a6f-c3432ca9f8f3&expirationTimestamp=1726876800000&signature=BCoSfiBcjKWh1YL8recg_YzWwMsMgc0sQs9l3Swg3Jg&downloadName=stay.png))
 
 ## Average Scores of International Students by Age
 
