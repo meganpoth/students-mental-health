@@ -45,7 +45,7 @@ Problems that may be found in the data could be related to several things. Anoth
 
 ## Relevance to the Business Question
 
-While the survey provided us with a lot of data from the students, two of our questions are “Do these students have a higher risk of mental health difficulties than the general population?” and  “Are social connectedness and acculturative stress key factors in predicting mental health difficulties?” The only columns that we will be using are listed to the right. 
+While the survey provided us with a lot of data from the students, two of our questions are “Do these students have a higher risk of mental health difficulties than the general population?” and  “Are social connectedness and acculturative stress key factors in predicting mental health difficulties?” The only columns that we will be using are listed below. 
 
 ## Data Aggregation
 
