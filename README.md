@@ -114,8 +114,7 @@ ORDER BY
 | 1 | 95 | 7.48 | 38.11 | 72.8 |
 
 ### Visualization
-
-![stay.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0fbd3e61-f121-4c4e-8a6f-c3432ca9f8f3/75fcd6de-f132-4011-9074-cd0c78faa003/stay.png)
+![stay](https://github.com/user-attachments/assets/3abc82e7-c34f-4423-ad29-214ecc9b43e8)
 
 ## Average Scores of International Students by Age
 
@@ -159,8 +158,7 @@ ORDER BY
 | 31 | 4 | 5.75 | 43.5 | 80.25 |
 
 ### Visualization
-
-![age.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0fbd3e61-f121-4c4e-8a6f-c3432ca9f8f3/2dfe6b3e-f6d8-462f-a943-7b14f9675124/age.png)
+![age](https://github.com/user-attachments/assets/bc69a8ce-7cd8-49b8-8481-e3c51e005dfa)
 
 ## International Graduate vs. International Undergraduate Students
 
@@ -190,8 +188,7 @@ GROUP BY
 | Grad | 20 | 4.95 | 40.9 | 75.8 |
 
 ### Visualization
-
-![average scores.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0fbd3e61-f121-4c4e-8a6f-c3432ca9f8f3/2a3d7cf4-1e3d-4825-bd09-aed036527795/average_scores.png)
+![average scores](https://github.com/user-attachments/assets/c9651e9a-50ee-46a5-9dbc-7bf4405204d6)
 
 ## Average Scores of All Students
 
@@ -222,8 +219,7 @@ GROUP BY
 | Dom | 67 | 8.61 | 37.64 | 62.84 |
 
 ### Visualization
-
-![average scores - all genders.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0fbd3e61-f121-4c4e-8a6f-c3432ca9f8f3/4c14bb01-873c-4bd9-94fc-966c898339b4/average_scores_-_all_genders.png)
+![average scores - all genders](https://github.com/user-attachments/assets/96a0d44b-dcf7-4a79-8586-248a9b1af8e7)
 
 # Act
 
